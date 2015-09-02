@@ -1,0 +1,6 @@
+Install *deb
+
+cp -avr dashboard/dist /opt/calamari/webapp/content/dashboard
+cp -avr login/dist /opt/calamari/webapp/content/login
+cp -avr manage/dist /opt/calamari/webapp/content/manage
+cp -avr admin/dist /opt/calamari/webapp/content/admin
